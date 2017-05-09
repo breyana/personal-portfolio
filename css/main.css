@@ -8,7 +8,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: right;
   margin-right: 10px;
 }
 
@@ -21,4 +21,13 @@ p {
 .container {
   display: flex;
   margin-left: 10px;
+}
+
+.name {
+  font-size: 37px;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.github {
+  font-size: 20px;
 }
