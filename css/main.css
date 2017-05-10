@@ -2,15 +2,15 @@ nav {
   display: flex;
 }
 
-.nav-links {
-  list-style-type: none;
-  width: 100%;
-}
-
 p {
   margin-left: 10px;
   min-width: 150px;
   width: 60%;
+}
+
+.nav-links {
+  list-style-type: none;
+  width: 100%;
 }
 
 .nav-link-item {
@@ -30,4 +30,10 @@ p {
 
 .github {
   font-size: 20px;
+}
+
+.twitter-feeds {
+  display: flex;
+  justify-content: center;
+  align-items: space-between;
 }
