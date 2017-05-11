@@ -1,11 +1,44 @@
+body {
+  font-family: 'Yrsa', serif;
+}
+
 nav {
   display: flex;
+  align-items: center;
 }
 
 p {
   margin-left: 10px;
   min-width: 150px;
   width: 60%;
+}
+
+h1 {
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  font-family: 'Yrsa', serif;
+  font-weight: bold;
+}
+
+h2 {
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  font-family: 'Yrsa', serif;
+  font-weight: bold;
+}
+
+h3 {
+  -webkit-margin-before: 0em;
+  -webkit-margin-after: 0em;
+  font-family: 'Yrsa', serif;
+  font-weight: bold;
+}
+
+h4 {
+  -webkit-margin-before: .25em;
+  -webkit-margin-after: .25em;
+  font-family: 'Yrsa', serif;
+  font-weight: bold;
 }
 
 .nav-links {
@@ -15,6 +48,9 @@ p {
 
 .nav-link-item {
   float: right;
+  font-family: 'Yrsa', serif;
+  font-size: 1.8em;
+  font-weight: bold;
   margin-right: 10px;
 }
 
