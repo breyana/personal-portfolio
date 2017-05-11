@@ -8,6 +8,26 @@ p {
   width: 60%;
 }
 
+h1 {
+  -webkit-margin-before: .25em;
+  -webkit-margin-after: .25em;
+}
+
+h2 {
+  -webkit-margin-before: .25em;
+  -webkit-margin-after: .25em;
+}
+
+h3 {
+  -webkit-margin-before: .25em;
+  -webkit-margin-after: .25em;
+}
+
+h4 {
+  -webkit-margin-before: .25em;
+  -webkit-margin-after: .25em;
+}
+
 .nav-links {
   list-style-type: none;
   width: 100%;
