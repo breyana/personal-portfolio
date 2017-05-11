@@ -60,6 +60,11 @@ h4 {
   margin-left: 10px;
 }
 
+.projects-container {
+  display: block;
+  margin: auto; 
+}
+
 .name {
   font-family: 'Alfa Slab One', cursive;
   font-size: 37px;
