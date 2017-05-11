@@ -1,5 +1,6 @@
 nav {
   display: flex;
+  align-items: center;
 }
 
 p {
@@ -11,21 +12,25 @@ p {
 h1 {
   -webkit-margin-before: .25em;
   -webkit-margin-after: .25em;
+  font-family: 'Jomhuria', cursive;
 }
 
 h2 {
   -webkit-margin-before: .25em;
   -webkit-margin-after: .25em;
+  font-family: 'Jomhuria', cursive;
 }
 
 h3 {
   -webkit-margin-before: .25em;
   -webkit-margin-after: .25em;
+  font-family: 'Jomhuria', cursive;
 }
 
 h4 {
   -webkit-margin-before: .25em;
   -webkit-margin-after: .25em;
+  font-family: 'Jomhuria', cursive;
 }
 
 .nav-links {
@@ -35,6 +40,8 @@ h4 {
 
 .nav-link-item {
   float: right;
+  font-family: 'Jomhuria', cursive;
+  font-size: 2em;
   margin-right: 10px;
 }
 
