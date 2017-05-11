@@ -33,7 +33,7 @@ p {
 }
 
 .twitter-feeds {
+  align-items: space-between;
   display: flex;
   justify-content: center;
-  align-items: space-between;
 }
