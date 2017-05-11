@@ -3,8 +3,9 @@ body {
 }
 
 nav {
-  display: flex;
   align-items: center;
+  background-color: #999999;
+  display: flex;
 }
 
 p {
