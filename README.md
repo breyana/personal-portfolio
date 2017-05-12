@@ -15,5 +15,5 @@
 
 ## Stretch
 
-[x] Point a custom domain to your new site
+- [x] Point a custom domain to your new site
   - breyanascales.com
